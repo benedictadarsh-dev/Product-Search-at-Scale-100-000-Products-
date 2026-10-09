@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.zip
+*.pdf
+*.docx
+*.db
+meili_data/
+dumps/
+meilisearch.exe
+benchmark_results.json
+REPORT.md
+

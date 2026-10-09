@@ -1,0 +1,13 @@
+{
+  "name": "internal-2-project-46-product-search",
+  "version": "1.0.0",
+  "description": "Product Search Comparison on 100,000 Products: SQL LIKE vs Typo-Tolerant Filtered Engine (Meilisearch)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "benchmark": "python benchmark_comparison.py"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
